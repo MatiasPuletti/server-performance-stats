@@ -26,4 +26,4 @@ A Bash script that generates a detailed, color-coded report on server performanc
 
 1. **Make the script executable**:  
    ```bash
-   chmod +x script_name.sh
+   chmod +x server-stats.sh
